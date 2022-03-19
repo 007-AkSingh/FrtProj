@@ -60,4 +60,4 @@ jobs:
         with:
           app-name: 'AirQualityCheck'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_61736D1775224D9BB6E29249FA925808 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_0E5336E993134A03AEA57031679312AB }}
